@@ -1,7 +1,6 @@
 - CS Major at Oregon State University - 2nd year
 - Looking into Cybersecurity, Game Dev, Web Dev
-- learning MASM, C, C++, C#, Python
-- Contact Info: rfairhur@gmail
+- Contact Info: rfairhur@gmail.com
 
 <!---
 r-fairhurst/r-fairhurst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
