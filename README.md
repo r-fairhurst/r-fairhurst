@@ -1,4 +1,4 @@
-- CS Major at Oregon State University - 2nd year
+- CS Major at Oregon State University - 3rd year
 - Looking into Cybersecurity, Game Dev, Web Dev
 - Contact Info: rfairhur@gmail.com
 
