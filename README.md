@@ -1,5 +1,6 @@
 - CS Major at Oregon State University - 3rd year
-- Looking into Cybersecurity, Game Dev, Web Dev
+- Focus on CyberSecurity
+- Dabble in Game Dev, Web Dev
 - Contact Info: rfairhur@gmail.com
 
 <!---
