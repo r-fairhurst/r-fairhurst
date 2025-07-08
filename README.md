@@ -1,9 +1,5 @@
-### 👋
 #### About Me
-I'm a computer science major at Oregon State University, working as a penetration testing intern. I'm passionate about all things cybersecurity.
-#### Active Projects
-- Participating in Capture The Flag (CTF) competitions
-- Project development for courses
+I'm a computer science major at Oregon State University, working as a penetration testing intern. I'm passionate about all things cybersecurity. I enjoy game development in my own time.
 #### Education and Work Experience
 - Computer Science Major at Oregon State University. Focus on CyberSecurity
 - Penetration Testing Intern For Caliber Security Partners
